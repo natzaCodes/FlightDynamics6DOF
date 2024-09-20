@@ -114,4 +114,3 @@ plot(t, heaviside(t), 'LineWidth',2);
 xlim([-0.1,0.4]);
 legend('l=0','l=1','l=1.5','l=2','l=2.5','l=3','l=4','l=4.5','l=5','input $\delta_e$','Interpreter','Latex');
 hold off
-
